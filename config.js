@@ -59,15 +59,15 @@ const CONFIG = {
 		},
 		{
 			id: '2',
-			name: 'Mail',
+			name: 'Gmail',
 			icon: 'mail',
 			link: 'https://mail.google.com/mail/u/0/#inbox',
 		},
 		{
 			id: '3',
-			name: 'Todoist',
-			icon: 'trello',
-			link: 'https://todoist.com',
+			name: 'AU Access',
+			icon: 'school',
+			link: 'https://experience.elluciancloud.com/auburn/',
 		},
 		{
 			id: '4',
@@ -77,13 +77,13 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'Reddit',
-			icon: 'glasses',
-			link: 'https://reddit.com',
+			name: 'Outlook',
+			icon: 'mails',
+			link: 'https://outlook.office.com/mail/?actSwt=true',
 		},
 		{
 			id: '6',
-			name: 'Odysee',
+			name: 'Youtube',
 			icon: 'youtube',
 			link: 'https://www.youtube.com/',
 		},
