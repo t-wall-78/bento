@@ -55,7 +55,7 @@ const CONFIG = {
 			id: '1',
 			name: 'Canvas',
 			icon: 'graduation-cap',
-			link: 'https://github.com/',
+			link: 'https://auburn.instructure.com/?login_success=1',
 		},
 		{
 			id: '2',
