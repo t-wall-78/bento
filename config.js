@@ -157,24 +157,24 @@ const CONFIG = {
 			],
 		},
 		{
-			icon: 'coffee',
+			icon: 'laptop',
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'Amazon',
+					link: 'https://www.amazon.com/ref=nav_logo',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'Netflix',
+					link: 'https://www.netflix.com/browse',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'ESPN',
+					link: 'https://www.espn.com/where-to-watch',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'Edit Page',
+					link: 'https://github.com/t-wall-78/bento/edit/master/config.js',
 				},
 			],
 		},
