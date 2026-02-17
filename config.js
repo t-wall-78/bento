@@ -139,8 +139,8 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Rate My Professor',
-					link: 'https://www.ratemyprofessors.com/school/60',
+					name: 'Linkedin',
+					link: 'https://www.linkedin.com/feed/',
 				},
 				{
 					name: 'Tiger Print',
