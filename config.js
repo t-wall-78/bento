@@ -50,6 +50,8 @@ const CONFIG = {
 	// ├┴┐│ │ │  │ │ ││││└─┐
 	// └─┘└─┘ ┴  ┴ └─┘┘└┘└─┘
 
+// https://lucide.dev/ for icons
+	
 	firstButtonsContainer: [
 		{
 			id: '1',
@@ -157,7 +159,7 @@ const CONFIG = {
 			],
 		},
 		{
-			icon: 'laptop',
+			icon: 'user',
 			id: '2',
 			links: [
 				{
