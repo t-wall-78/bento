@@ -86,7 +86,7 @@ const CONFIG = {
 		{
 			id: '6',
 			name: 'Youtube',
-			icon: 'youtube',
+			icon: 'square-play',
 			link: 'https://www.youtube.com/',
 		},
 	],
