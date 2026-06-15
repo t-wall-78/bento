@@ -171,8 +171,8 @@ const CONFIG = {
 					link: 'https://www.netflix.com/browse',
 				},
 				{
-					name: 'ESPN',
-					link: 'https://www.espn.com/where-to-watch',
+					name: 'Home Assistant',
+					link: 'http://homeassistant.local:8123/',
 				},
 				{
 					name: 'Edit Page',
